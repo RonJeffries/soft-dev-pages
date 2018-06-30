@@ -2,7 +2,8 @@
 
 # Introduction #
 
-![IMG_0732.png](IMG_0732.png)  
+
+![ScreenShot2018-06-30at111430AM.png](ScreenShot2018-06-30at111430AM.png)  
 
 ## Other Ways ##
 
@@ -18,6 +19,7 @@ I’be been involved in building software for over a half a century, and this is
 * [ Conversation ](03.md)
 * [ Teams ](04.md)
 * [ Managing The Future ](05.md)
+* [ Confidence ](06.md)
 
 
 
@@ -26,14 +28,6 @@ I’be been involved in building software for over a half a century, and this is
 [Top](index.html) | [Core of Book](01.html)
 
 
-## Confidence ##  
-
-### Needs ###  
-
-### Requirements ###  
-
-### Specifications ###  
-
-### Testing ###
+<!--ignore-->
 
 

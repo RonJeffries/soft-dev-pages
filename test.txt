@@ -5,3 +5,4 @@ index.md: Introduction
 03.md:  Conversation 
 04.md:  Teams 
 05.md:  Managing The Future 
+06.md:  Confidence 
