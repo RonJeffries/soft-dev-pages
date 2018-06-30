@@ -1,7 +1,4 @@
-# Introduction #
-
-
-![ScreenShot2018-06-30at111430AM.png](ScreenShot2018-06-30at111430AM.png)  
+# Introduction #  
 
 ## Other Ways ##
 

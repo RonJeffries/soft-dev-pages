@@ -1,9 +1,6 @@
 [Top](index.html) | [Core of Book](01.html)
 
-# Introduction #
-
-
-![ScreenShot2018-06-30at111430AM.png](ScreenShot2018-06-30at111430AM.png)  
+# Introduction #  
 
 ## Other Ways ##
 
