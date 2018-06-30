@@ -1,8 +1,5 @@
 [Top](index.html) | [Core of Book](01.html)
 
-Title: software-development  
-Author: Ron Jeffries
-
 # Introduction #  
 
 ## Other Ways ##
@@ -13,7 +10,7 @@ This book describes a family of approaches, founded in the thinking of the Agile
 
 I’be been involved in building software for over a half a century, and this is how I’d do it.
 
-* [tle: software-developme](index.md)
+* [Introduction](index.md)
 * [Core of Book](01.md)
 * [ The Increment ](02.md)
 * [ Conversation ](03.md)

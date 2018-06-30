@@ -1,6 +1,3 @@
-Title: software-development  
-Author: Ron Jeffries
-
 # Introduction #  
 
 ## Other Ways ##
