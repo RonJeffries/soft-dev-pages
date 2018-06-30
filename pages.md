@@ -11,6 +11,10 @@ This book describes a family of approaches, founded in the thinking of the Agile
 
 I’be been involved in building software for over a half a century, and this is how I’d do it.
 
+<!--TOC-->
+
+
+
 ----
 
 # Core of Book #

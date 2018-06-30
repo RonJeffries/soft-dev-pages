@@ -1,4 +1,4 @@
-halves length 1
+halves length 2
 index.md: tle: software-developme
 01.md: Core of Book
 02.md:  The Increment 
