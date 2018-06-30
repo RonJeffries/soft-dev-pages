@@ -1,4 +1,6 @@
-# Introduction #  
+# Introduction #
+
+![IMG_0732.png](IMG_0732.png)  
 
 ## Other Ways ##
 

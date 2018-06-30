@@ -1,6 +1,8 @@
 [Top](index.html) | [Core of Book](01.html)
 
-# Introduction #  
+# Introduction #
+
+![IMG_0732.png](IMG_0732.png)  
 
 ## Other Ways ##
 
