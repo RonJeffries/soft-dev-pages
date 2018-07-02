@@ -49,7 +49,9 @@ def table_of_contents
     # puts "pounds /%s/ rest /%s/" % [pounds, rest]
     # we want tabs = four_spaces*3
     tabs = pounds.gsub(/#/, '    ')
-    # title = title.gsub(/\#*/, '    ')
+    puts "tabs /%s/" % tabs
+    tabs = tabs[4..-1]
+    puts "tabs /%s/" % tabs
     toc += "%s* [%s](%s)\n" % [tabs, rest, make_file_name(number)] 
   end
   return toc

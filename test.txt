@@ -1,4 +1,20 @@
 halves length 2
+tabs /    /
+tabs //
+tabs /    /
+tabs //
+tabs /        /
+tabs /    /
+tabs /        /
+tabs /    /
+tabs /        /
+tabs /    /
+tabs /        /
+tabs /    /
+tabs /        /
+tabs /    /
+tabs /    /
+tabs //
 index.md: # Introduction #
 01.md: # Core of Book #
 02.md: ## The Increment ##
