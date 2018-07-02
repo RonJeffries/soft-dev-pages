@@ -10,14 +10,14 @@ This book describes a family of approaches, founded in the thinking of the Agile
 
 I’be been involved in building software for over a half a century, and this is how I’d do it.
 
-* [Introduction](index.md)
-* [Core](01.md)
-    * [The](02.md)
-    * [Conversation](03.md)
-    * [Teams](04.md)
-    * [Managing](05.md)
-    * [Confidence](06.md)
-* [Manifesto-Driven](07.md)
+* [Introduction #](index.md)
+* [Core of Book #](01.md)
+    * [The Increment ##](02.md)
+    * [Conversation ##](03.md)
+    * [Teams ##](04.md)
+    * [Managing The Future ##](05.md)
+    * [Confidence ##](06.md)
+* [Manifesto-Driven #](07.md)
 
 
 
