@@ -17,6 +17,7 @@ I’be been involved in building software for over a half a century, and this is
 * [ Teams ](04.md)
 * [ Managing The Future ](05.md)
 * [ Confidence ](06.md)
+* [Manifesto-Driven](07.md)
 
 
 

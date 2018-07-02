@@ -6,3 +6,4 @@ index.md: Introduction
 04.md:  Teams 
 05.md:  Managing The Future 
 06.md:  Confidence 
+07.md: Manifesto-Driven
