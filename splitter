@@ -35,7 +35,7 @@ def record_titles(chunks)
     title = chunk.split("\n")[0].strip # remove any spaces
     # title = title.gsub(/# /, '#* ') # ##* Title
     # title = title.gsub(/#/, '    ') ## ____ ____* Title
-    Titles[filenumber] = title
+    Titles[filenumber] = title.chomp(title[/ \#*$/])
     filenumber += 1
   end
 end

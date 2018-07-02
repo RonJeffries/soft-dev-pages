@@ -15,11 +15,11 @@ tabs /        /
 tabs /    /
 tabs /    /
 tabs //
-index.md: # Introduction #
-01.md: # Core of Book #
-02.md: ## The Increment ##
-03.md: ## Conversation ##
-04.md: ## Teams ##
-05.md: ## Managing The Future ##
-06.md: ## Confidence ##
-07.md: # Manifesto-Driven #
+index.md: # Introduction
+01.md: # Core of Book
+02.md: ## The Increment
+03.md: ## Conversation
+04.md: ## Teams
+05.md: ## Managing The Future
+06.md: ## Confidence
+07.md: # Manifesto-Driven
