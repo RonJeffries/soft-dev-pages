@@ -1,4 +1,4 @@
-[Top](index.html) | [# Core of Book](01.html)
+[Top](index.html) | [Core of Book](01.html)
 
 # Introduction #  
 
@@ -21,7 +21,7 @@ I’be been involved in building software for over a half a century, and this is
 
 
 
-[Top](index.html) | [# Core of Book](01.html)
+[Top](index.html) | [Core of Book](01.html)
 
 
 <!--ignore-->
