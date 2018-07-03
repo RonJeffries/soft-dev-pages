@@ -33,9 +33,8 @@ def record_titles(chunks)
   filenumber = 0
   chunks.each do | chunk |
     title = chunk.split("\n")[0].strip # remove any spaces
-    # title = title.gsub(/# /, '#* ') # ##* Title
-    # title = title.gsub(/#/, '    ') ## ____ ____* Title
-    Titles[filenumber] = title.chomp(title[/ \#*$/])
+    tail = title[/ *\#*$/] # spaces followed by pounds
+    Titles[filenumber] = title.chomp(tail) # remove trailing stuff
     filenumber += 1
   end
 end
@@ -43,16 +42,11 @@ end
 def table_of_contents
   toc = ""
   Titles.each_pair do | number, title |
-    # toc += "* [" + title + "](" + make_file_name(number) + ")\n"
     # looks like: ### title
     pounds, *rest = title.split(' ')
     the_title = rest.join(' ')
-    # puts "pounds /%s/ rest /%s/" % [pounds, rest]
-    # we want tabs = four_spaces*3
     tabs = pounds.gsub(/#/, '    ')
-    puts "tabs /%s/" % tabs
-    tabs = tabs[4..-1]
-    puts "tabs /%s/" % tabs
+    tabs = tabs[4..-1] # remove one set
     toc += "%s* [%s](%s)\n" % [tabs, the_title, make_file_name(number)] 
   end
   return toc

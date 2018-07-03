@@ -132,9 +132,9 @@ To me, software development is all about people. Frankly, everything of interest
 
 Frankly, I prioritize being good for the people ahead of being good for the company. Now, I believe that an approach that’s good for the people is best for the company, but even if it weren’t, I’d prioritize the people. People are more important to me than companies.  
 
-Scrum and most other so-called “Agile” methods, and the methods before them, have focused on roles, responsibilities, authority, and the like. Then they describe teams in terms of those notions.
+Scrum and most other so-called “Agile” methods, and the methods before them, have focused on roles: responsibilities, authority, and the like. Then they describe teams in terms of those notions.
 
-Let’s turn that upside down and inside out. Let’s think about a team of people who have come together to do something.  
+As we think here about how to organize software development, let’s turn the roles thinking upside down and inside out. Let’s think about a team of people who have come together to do something, and how they, and things around them, should be organized. Let’s think about the things they do, and maybe to worry too much about just who does it or what their job title is.  
 
 Agile Software Development is about developing software. The Manifesto refers to “working software” several times, and in what we call the Increment, that notion is central to this book. An Agile Software Development Team has as its core purpose the creation of software.
 
