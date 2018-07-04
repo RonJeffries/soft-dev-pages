@@ -1,9 +1,12 @@
 [Top](index.html) | [Introduction](01.html)
 
-# Table of Contents #
+# Software Development #
 
+by Ron Jeffries
 
-* [Table of Contents](index.md)
+## Table of Contents
+
+* [Software Development](index.md)
 * [Introduction](01.md)
 * [Manifesto-Driven](02.md)
 * [Core of Book](03.md)
