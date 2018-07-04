@@ -1,10 +1,16 @@
-# Introduction #
+# Table of Contents #
 
-In this little book, I’ll be describing an approach to software development, based on what I’ve learned from the Agile Manifesto and my more than two decades trying to work in the “Agile” fashion and to help others do it. I emphasize that I’m describing what I’ve learned–or think I have. I make no claim that any of the other Manifesto authors would agree with me, though I hope that many of them would agree with much of what is said here.
 
 <!--TOC-->
 
-[The book resides here](https://ronjeffries.github.io/soft-dev-pages/index.html)  
+[The book resides here](https://ronjeffries.github.io/soft-dev-pages/index.html)
+
+----
+
+# Introduction #
+
+In this little book, I’ll be describing an approach to software development, based on what I’ve learned from the Agile Manifesto and my more than two decades trying to work in the “Agile” fashion and to help others do it. I emphasize that I’m describing what I’ve learned–or think I have. I make no claim that any of the other Manifesto authors would agree with me, though I hope that many of them would agree with much of what is said here.
+  
 
 There are as many ways of having a successful software effort as there are successful software efforts. (Unfortunately, there are also as many ways of having an unsuccessful one as there are failed or unsatisfactory software efforts, and there are a lot of those out there.)
 
