@@ -1,5 +1,5 @@
 halves length 2
-index.md: # Software Development
+index.md: # Software Development: How I’d Do It
 01.md: # Introduction
 02.md: # Manifesto-Driven
 03.md: # Core of Book

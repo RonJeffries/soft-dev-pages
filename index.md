@@ -1,12 +1,12 @@
 [Top](index.html) | [Introduction](01.html)
 
-# Software Development #
+# Software Development: How I’d Do It #
 
 by Ron Jeffries
 
 ## Table of Contents
 
-* [Software Development](index.md)
+* [Software Development: How I’d Do It](index.md)
 * [Introduction](01.md)
 * [Manifesto-Driven](02.md)
 * [Core of Book](03.md)
