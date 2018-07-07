@@ -92,7 +92,41 @@ As we dig into how software should be done (according to me), we’ll keep this 
 
 In his book, Drive, Daniel Pink speaks of Purpose, Autonomy, and Mastery as the foundation of both productivity and satisfaction. Those ideas make great sense to me, as I have always been more motivated by those things than by mere money. My ideas here, and in all my writings, are shaped by my own feelings, of course, and these three terms are one good way of describing how I got here.  
 
-  
+Ideally, we should get a sense of purpose from the product we’re working on. While it’s true that we might just be showing up at work so they’ll keep paying us, things will go better for us, and for the business, if we get a sense of importance from what we’re doing. This has some important implications for how we approach software development. I’ll touch on two here, the way work is divided up, and our connection with those who need what we’re doing.
+
+Because people work more effectively and more happily with a sense of purpose, we should partition the work so that its purpose is clear to the people doing it. We should be able to look at the flow of things we’re trying to create and see that there is a point to it. It’s often better to work on a feature than on a subroutine, because it’s easier to see how it all makes sense.
+
+One of the best ways to see purpose, is to work with the people who actually need the solution we’re creating. A half-decent way to do that, and often the only one accessible to us, is to have a business person with product responsibility as part of our team. A better way is to have a team with a real connection to some of the users of whatever is being built. We’ll also get a better product, the more closely we connect with the real purpose of the work.  
+
+Given an understanding of what is needed, a purpose, we need to have a hand in serving that purpose. The stronger hand we have, the better. If we’re just handed parceled out work, but we can see how it fits in, that’s at least better than if we can’t even see the point. But if we get to influence the order of the work to maximize value, we’ll feel and perform better. To the extent that we’re part of deciding how to solve the need, we’ll do even better.  
+
+Given a purpose, and the autonomy to address it, we want to be able to perform well. We want to build a good solution, not a poor one. We want to build an attractive, useful, high quality, all good things solution. To do that, we need to be good at our job.
+
+We need to be able to assess user needs. We need to devise solutions. We need to see when a solution is good and when it is better. We need to be able to compare the value of solutions, to see the quality of our designs, to build code that is functional and maintainable. We need to do good work.  
+
+Throughout this book, I’ll be consciously shaping the recommendations to increase purpose, autonomy, and mastery. From time to time, I’ll refer back to those ideas. And, very likely, the ideas here will be shaped more subtly by my own desire for those three values. Watch for those cases as well.
+
+----
+
+## further values ##
+
+There are, of course, many important values that we might hold, and that might inform the decisions we make. I’ll list a few here that have appeal to me, and that I’d invite you to think about.  
+
+My colleague Mike (GeePaw) Hill offers two additional values, one of which is safety. For people to be effective, they need to be able to have ideas, make mistakes, try things, and learn. If they feel safe in their work, they can do these things. If they do not feel safe, they’ll behave conservatively, even defensively, and creativity will suffer. Very likely, even teamwork will suffer, as people close in, and hold resources to themselves in fear that they may lose out somehow.
+
+It seems to me that safety is somewhat subsumed under the notion of autonomy, but not entirely. We might, in principle, be free to act but the consequences of mistakes would be so dire that we’d be acting only out of fear. That would be bad.
+
+Safety is important, and it needs to be real. If we tell people that they’re safe, and they’re not, they’ll quickly find out, and things will be worse than before. So GeePaw is wise to include this value.  
+
+GeePaw Hill also offers the value of “rhythm”. He points out that people seem to work better within regular rhythmic time cycles. We tend to like going to work at the same time, eating our meals at the same time, and so on. It is this sense of rhythmic cycles that results in suggestions that our development process might best have weekly or biweekly iterations, monthly and daily meetings, and so on.   
+
+Clearly, the more different ideas we have, the better we’ll be able to pick out really good ideas–at least within reason. It’s certainly possible to have too many ideas, or too many weird ideas, but by and large, my experience is that a few more good ideas would have been useful.
+
+We want to avoid “groupthink”, where everyone is so much on the same page that we don’t see new opportunities or new solutions. And there’s very little doubt that having a more diverse team can help. What kind of diversity? Again, within reason, all kinds: age, gender, race, origin, background, and so on. 
+
+There’s another reason why we might want to have our organization be more diverse, and it’s a reason that appeals to me. If we are privileged enough to have work, to have an organization that can hire people and help them advance themselves, then it seems to me that we should look beyond the nearest white male for people to recruit. To some degree, we should bring in people who will contribute to our effort, and who will at the same time get a chance that they might not have otherwise had, to advance themselves.
+
+I don’t expect that we’ll be speaking directly about diversity in these pages, as I don’t think it will directly impact most of the topics I presently have in mind. Nonetheless, I think a focus on diversity is good for the company and good for humanity, and I strongly recommend it.  
 
   
 

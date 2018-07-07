@@ -3,9 +3,10 @@ index.md: # Software Development: How I’d Do It
 01.md: # Introduction
 02.md: # Manifesto-Driven
 03.md: ## purpose, autonomy, mastery
-04.md: # Core of Book
-05.md: ## The Increment
-06.md: ## Conversation
-07.md: ## Teams
-08.md: ## Managing The Future
-09.md: ## Confidence
+04.md: ## further values
+05.md: # Core of Book
+06.md: ## The Increment
+07.md: ## Conversation
+08.md: ## Teams
+09.md: ## Managing The Future
+10.md: ## Confidence
