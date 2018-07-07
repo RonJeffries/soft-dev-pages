@@ -2,9 +2,10 @@ halves length 2
 index.md: # Software Development: How I’d Do It
 01.md: # Introduction
 02.md: # Manifesto-Driven
-03.md: # Core of Book
-04.md: ## The Increment
-05.md: ## Conversation
-06.md: ## Teams
-07.md: ## Managing The Future
-08.md: ## Confidence
+03.md: ## purpose, autonomy, mastery
+04.md: # Core of Book
+05.md: ## The Increment
+06.md: ## Conversation
+07.md: ## Teams
+08.md: ## Managing The Future
+09.md: ## Confidence

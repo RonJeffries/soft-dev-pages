@@ -84,7 +84,13 @@ As we dig into how software should be done (according to me), we’ll keep this 
 
   
 
-  
+
+
+----
+
+## purpose, autonomy, mastery ##
+
+In his book, Drive, Daniel Pink speaks of Purpose, Autonomy, and Mastery as the foundation of both productivity and satisfaction. Those ideas make great sense to me, as I have always been more motivated by those things than by mere money. My ideas here, and in all my writings, are shaped by my own feelings, of course, and these three terms are one good way of describing how I got here.  
 
   
 
