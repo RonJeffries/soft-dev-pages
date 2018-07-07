@@ -17,6 +17,7 @@ by Ron Jeffries
     * [Teams](08.md)
     * [Managing The Future](09.md)
     * [Confidence](10.md)
+    * [Architecture and Design](11.md)
 
 [The book resides here](https://ronjeffries.github.io/soft-dev-pages/index.html)
 
