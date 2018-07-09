@@ -146,6 +146,34 @@ Some introductory remarks …
 
 ----
 
+## Iterative and Incremental ##
+
+Software development approaches like Extreme Programming and Scrum can be said to be iterative and incremental.  
+
+An iterative process is one that repeats a series of operations cyclically, with the intention of coming closer and closer to some desired result. In mathematics, for example, the Newton-Raphson method is used to approximate the solutions to algebraic equations. Often a direct solution of an equation is difficult to obtain: sometimes there is no known way to so. But it is often possible to approximate a solution, essentially by trying a value, and then repeatedly using that value to get a more accurate solution. If the calculation of the new approximation is easier than finding a direct solution, iteration is worth-while.
+
+By analogy, approaches like XP and Scrum repeat a simple cycle of activities, producing a new increment of product in each cycle. Usually the cycle is performed in a fixed time-box, but time-boxing is not necessary to the iterative concept. However, both XP and Scrum do use a fixed time-box per iteration, while approaches focusing on more continuous flow, such as Kanban, may perform a consistent cycle of steps, but in the “time required” rather than a fixed time-box. 
+
+Xp refers to the cycle’s time period as an “Iteration”, while Scrum calls it a “Sprint”. The cycles themselves are similar. In a time-box of a week or two, the team plans what they’ll accomplish in the time period. They do the work, then review it and consider how to improve the work, and the way they work, next time around. Each iteration of the cycle is therefore similar to the preceding one, but not identical. The specific work changes, of course, but we also improve how we approach the work.
+
+And each iteration is expected to produce an “Increment”, working, tested, usable software that meets more of the goals of the product than last time.  
+
+An incremental approach to producing something can be seen as producing more and more of it each time. This is in a bit of contrast to the notion of an iterative approach, which is best viewed as producing an improved version of some targeted solution. An incremental approach produces a new thing by changing the old one.
+
+These ideas, together, define what “Agile” approaches like XP and Scrum are doing. They repeat a cyclic pattern of actions, producing a new version of the desired product, by changing the preceding version. Usually, those changes will consist of adding in some new capability, because we generally need more than one capability in a product before people will find it useful.   
+
+The thing we produce is called the Increment, and we’ll discuss it in detail in another section. We’ll make a few points here. 
+
+First, the Increment should always be fully tested and operational. The only thing about it that could be “not ready to go” would be that it lacks some necessary capability to be useful. Presumably, the next thing we’ll do will be to add that capability. Other than that, it should be ready to ship. In fact, the best thing about it is that it’s ready to ship. The idea is to have it be irresistibly tempting to give the Increment to someone to use.
+
+Second, while we usually improve the increment by adding capability, that doesn’t mean we never remove anything or never make a less visible improvement. A good use of an incremental development approach is to try things. We put in a capability, let a few people try it, and learn. Next time, we might remove that capability, or that way of providing it, and put in another. Similarly, we might improve efficiency or some other less visible characteristic of the product. The idea, simply enough, is that we improve it every time around.  
+
+There you have it. The approaches we prefer are iterative, in that they consist of short cycles of development, generally done in a self-similar style, with improvements. They are incremental, in that they produce an Increment of product each time around, each Increment being ready to ship, and better than the one before.
+
+Iterative and incremental: smooth, consistent, producing usable results. That’s how I’d do software.
+
+----
+
 ## The Increment ##
 
 In my view, our best chance at successful software development comes down to this: The “*Increment*”, a frequently-provided chunk of running, tested, software, ready to ship, solid, each feature or story bit complete. It may not have all the capabilities you want, but everything it has is crisp, in place, ready to go.
