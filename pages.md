@@ -36,7 +36,7 @@ Scrum and most other so-called “Agile” methods, and the methods before them,
 
 As we think here about how to organize software development, let’s turn the roles thinking upside down and inside out. Let’s think about a team of people who have come together to do something, and how they, and things around them, should be organized. Let’s think about the things they do, and maybe to worry too much about just who does it or what their job title is.  
 
-Agile Software Development is about developing software. The Manifesto refers to “working software” several times, and in what we call the Increment, that notion is central to this book. An Agile Software Development Team has as its core purpose the creation of software.
+Agile Software Development is about developing software. The Manifesto refers to “working software” several times, and that notion, the Increment, is central to this book. An Agile Software Development Team has as its core purpose the creation of software.
 
 Now as soon as we say that, we have to reach beyond “creation of software” as the purpose. The software is there to solve a problem, or to support users in carrying out some other purpose. The software may be embedded in some kind of device, such as a heart pacemaker, or a vehicle, or a phone or wristwatch.
 
@@ -76,7 +76,7 @@ That’s not to say that we’re opposed to control. Not at all: control, especi
 
 To help avoid having an individual named as the “owner”, the “leader” or the “master”, and to enable everyone to lead when they have leadership in them, we’ll try to speak in terms of responsibilities and activities rather than named roles. We won’t manage that entirely, because sometimes we’ll need to connect to existing methods and processes which have those role names.  
 
-“There's no word for accountability in Finnish. Accountability is something that is left when responsibility has been subtracted.” --Pasi Sahlberg
+> “There's no word for accountability in Finnish. Accountability is something that is left when responsibility has been subtracted.” --Pasi Sahlberg
 
 At first encounter, I’m inclined to feel that a call for “accountability” reflects a lack of trust in a situation. But I’m reminded of the Russian proverb that President Reagan adopted: “Trust, but verify”. (*Doveryai, no proveryai.*) So I try to translate a call for accountability into a call for solid information. 
 
@@ -118,7 +118,13 @@ It seems to me that safety is somewhat subsumed under the notion of autonomy, bu
 
 Safety is important, and it needs to be real. If we tell people that they’re safe, and they’re not, they’ll quickly find out, and things will be worse than before. So GeePaw is wise to include this value.  
 
-GeePaw Hill also offers the value of “rhythm”. He points out that people seem to work better within regular rhythmic time cycles. We tend to like going to work at the same time, eating our meals at the same time, and so on. It is this sense of rhythmic cycles that results in suggestions that our development process might best have weekly or biweekly iterations, monthly and daily meetings, and so on.   
+GeePaw Hill also offers the value of “rhythm”. He points out that people seem to work better within regular rhythmic time cycles. We tend to like going to work at the same time, eating our meals at the same time, and so on. It is this sense of rhythmic cycles that results in suggestions that our development process might best have weekly or biweekly iterations, monthly and daily meetings, and so on. 
+
+It seems to me that there’s a balance to be found here, as in most values. We’ve probably all experienced that feeling of “Oh, no, it’s Monday and I have to go to work”, or even “Oh, no, it’s Friday and I have to go out for drinks”. It’s possible for any rhythm to become a drag. Ravel’s *Bolero* comes to mind. So we may need to change things up.
+
+Similarly, I can imagine that a rhythm might cause trouble by being out of sync with our lives. A meeting that shifted one hour every day would probably be a problem, especially when it started showing up at 1 AM, 2 AM, … 
+
+Rhythm is surely important, valuable, and worth using. At this writing, GeePaw isn’t certain just what to say about it, and neither am I. My best advice at the moment is to keep rhythm in mind, and be ready to change it up from time to time.  
 
 Clearly, the more different ideas we have, the better we’ll be able to pick out really good ideas–at least within reason. It’s certainly possible to have too many ideas, or too many weird ideas, but by and large, my experience is that a few more good ideas would have been useful.
 
@@ -186,7 +192,7 @@ I say that the increment is made of running, tested, software. By “running”,
 
 I say that the Increment is “tested”. I could just as well say “working, really truly provably working”, but it wouldn’t scan. The point is that the Increment is as close to free of defects as we want the “final” product to be, and if you expect me to use your product, that means as close to zero defects as we can get. 
 
->Pro tip: If your open defects are recorded in Jira, or in any form other than one sticky note or index card, you have too many of them. Stop adding and fix things.
+> >Pro tip: If your open defects are recorded in Jira, or in any form other than one sticky note or index card, you have too many of them. Stop adding and fix things.
 Today, the best way I know to have software that really works is extensive testing. We’ll discuss ways of doing that later on. For now, it’s got to be working, and you’ve got to be able to prove it, so that means it had better be tested.
   
 
@@ -206,7 +212,7 @@ And the sooner we put in a couple of those missing features, the sooner we can s
 
 The point of the Increment, the point of “running tested features” is to focus all our planning and reporting around a thing that exists, a thing whose only reason for not being out there creating value is that it lacks a few critical features. The idea is to make the product so tangible that it gets us thinking:
 
-If we just added this one more thing, we could ship this puppy!
+> If we just added this one more thing, we could ship this puppy!
 
 If you can do what we’ve said so far, you’re ready to go. The rest is hints, guidance, examples. Valuable, we certainly hope. But the core is the Increment, running, tested, features.  
 
@@ -214,7 +220,7 @@ The so-called “Agile” method inaccurately named “SAFe” has the notion of
 
 But it’s good advice, just not good enough. The advice here is:
 
-Deliver continuously, ship on demand.  
+> Deliver continuously, ship on demand.  
 
 In the early days of “Agile”, over two decades ago, we thought that having a version ready every month was OK, three weeks was good, two weeks was amazing. Ready every week? You must be gods!
 
